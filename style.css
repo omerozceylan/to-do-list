@@ -1,0 +1,26 @@
+.body {
+    background-color: #404258;
+}
+h1{
+    color: aliceblue;
+}
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    user-select: none;
+}
+
+p{
+    width: 500px;
+    height: 60px;
+    background-color: #343A40;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    font-size: 25px;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
